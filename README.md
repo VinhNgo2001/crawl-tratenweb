@@ -53,3 +53,5 @@ project/
 │── companies_details.docx  # File Word kết quả (sinh ra sau khi chạy d.py)
 │── requirements.txt
 │── README.md
+
+Bo sung co the thay doi thanh' tinh? khac de lay du~ lieu
