@@ -5,7 +5,7 @@ import json
 BASE_URL = "https://www.tratencongty.com/tinh-dong-nai/?page={}"
 
 start_page = 12
-end_page = 22
+end_page = 13
 
 companies = []
 
