@@ -24,6 +24,8 @@ python a.py
 
 Kết quả: sinh ra file companies_links_{tinh}_{start}_{end}.json
 (VD: companies_links_dong-nai_11_22.json)
+
+  CHU Y' GIOI HAN 10 PAGE, NHIEU HON BI WEB BAN!!!!!!
 Bước 2: Crawl chi tiết công ty (d.py)
 
 File d.py đọc danh sách link trong file JSON và lấy chi tiết thông tin công ty, sau đó xuất ra file .docx .
